@@ -7,3 +7,5 @@ In this project various machiene learning techniques is implemented in order to 
 - Decision tree 
 - Knn
 - Random forest
+
+
